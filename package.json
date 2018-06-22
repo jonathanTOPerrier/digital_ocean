@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rts-cmk-WI81/avanceret-webintegration-del-1-jonathanTOPerrier.git"
+    "url": "git+https://github.com/jonathanTOPerrier/digital_ocean"
   },
   "author": "Theodor Perrier",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rts-cmk-WI81/avanceret-webintegration-del-1-jonathanTOPerrier/issues"
+    "url": "https://github.com/github.com/jonathanTOPerrier/digital_ocean"
   },
-  "homepage": "https://github.com/rts-cmk-WI81/avanceret-webintegration-del-1-jonathanTOPerrier#readme",
+  "homepage": "https://github.com/github.com/jonathanTOPerrier/digital_ocean#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",

@@ -1,0 +1,50 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    margin: 0 auto;
+    text-align: center;
+}
+
+input, select{
+    display: block;
+    margin-bottom: 2em;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+a:hover{
+
+    border: 1px solid #000;
+
+}
+li{
+    list-style: none;
+    display: inline;
+    margin-right: 2em;
+}
+nav{
+    margin: 5em 0;
+}
+
+#wrapper{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+th{
+    padding: 2%;
+
+}
+
+td{
+    padding: 2%;
+}
+
+button a:hover{
+    border: none;
+}

@@ -1,0 +1,30 @@
+{
+  "name": "avanceret-webintegration-del-1-jonathantoperrier",
+  "version": "1.0.0",
+  "description": "Faget bygger oven på det vi har arbejdet med i Webintegration faget, her dykkes der dybere ned i NodeJS og JavaScriptens afkroge.",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rts-cmk-WI81/avanceret-webintegration-del-1-jonathanTOPerrier.git"
+  },
+  "author": "Theodor Perrier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rts-cmk-WI81/avanceret-webintegration-del-1-jonathanTOPerrier/issues"
+  },
+  "homepage": "https://github.com/rts-cmk-WI81/avanceret-webintegration-del-1-jonathanTOPerrier#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-ejs-extend": "0.0.1",
+    "express-session": "^1.15.6",
+    "morgan": "^1.9.0",
+    "mysql2": "^1.5.3",
+    "npm": "^6.1.0"
+  }
+}

@@ -2,6 +2,10 @@
 
 Lad os se hvad der sker :O
 
+# alt dette forgår i putty, hvor man tilslutter sig droplettens ip adresse og sætter root burger op første gang man tilslutter sig. NB!! husk passwordet man bruger til root!! Da man skal bruge det hver gang man tilslutter sig.
+
+# putty er et konsol program der gør det lettere at kører kommandoer på linux serveren, det er en SSH forbindelse, (secure shell)
+
 Når man har fået dropletten op at kører, dvs den virtuelle linux server på digital ocean skal man
 
 # 1. installere nano
@@ -95,6 +99,10 @@ Dette er vigtigt da pm2 sørger for at genstarte app.js i tilfælde af crash, nu
 
 # 1. opret en tilladelse via putty
 
+start mysql op først
+
+- service mysqld start
+
 log på mysgl på linux maskinen
 angivelse af password
 - mysql -p
@@ -153,7 +161,7 @@ nu skulle node serveren kunne få tilgang til alt i databasen via lokalhosten
 hvis i tvivl -> https://www.youtube.com/watch?v=7ouzVS1OP00
 
 
-### vigtigt!!! husk!!!
+# vigtigt!!! husk!!!
 
 service mysqld start
 

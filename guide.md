@@ -1,5 +1,7 @@
 # digital_ocean
 
+## husk at dropletten skal være en CentOS 6,9 x32
+
 Lad os se hvad der sker :O
 
 # alt dette forgår i putty, hvor man tilslutter sig droplettens ip adresse og sætter root burger op første gang man tilslutter sig. NB!! husk passwordet man bruger til root!! Da man skal bruge det hver gang man tilslutter sig.
@@ -7,6 +9,8 @@ Lad os se hvad der sker :O
 # putty er et konsol program der gør det lettere at kører kommandoer på linux serveren, det er en SSH forbindelse, (secure shell)
 
 Når man har fået dropletten op at kører, dvs den virtuelle linux server på digital ocean skal man
+
+# sudo npm config set strict-ssl false
 
 # 1. installere nano
 nano er en tekst editor for linux, der gør det nemmere at skrive til og redigere filer på serveren.

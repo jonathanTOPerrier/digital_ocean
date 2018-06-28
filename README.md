@@ -2,6 +2,8 @@
 
 ## husk at dropletten skal være en CentOS 6,9 x32
 
+## man skal huske at få passworded til dropletten via mail
+
 Lad os se hvad der sker :O
 
 # alt dette forgår i putty, hvor man tilslutter sig droplettens ip adresse og sætter root burger op første gang man tilslutter sig. NB!! husk passwordet man bruger til root!! Da man skal bruge det hver gang man tilslutter sig.
